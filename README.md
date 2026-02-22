@@ -47,11 +47,6 @@ AI를 좋아하는 프론트엔드 개발자에요.
 - **사용 기술:** Next.js, Recoil, Tailwind CSS, Axios, React-PDF, D3.js
 - **설명:** PDF 문서의 유사도를 시각화하고, LLM을 통해 사용자 질문에 실시간으로 응답하는 웹 애플리케이션을 개발했어요.
 
-### [TUNiB 챗봇](https://bit.ly/4fSRpds) - 반응형 웹 플랫폼
-- **역할:** 프론트엔드 개발자
-- **사용 기술:** React, Context API, Styled-components, React Query v4
-- **설명:** 다양한 디바이스에서 최적화된 챗봇 인터랙션 플랫폼을 개발했어요.
-
 ---
 
 ## 🌐 블로그
