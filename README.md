@@ -15,7 +15,7 @@
 | **[Numen](https://github.com/chenjingdev/numen)** | 작업을 끊지 않고 이어가는 사람–에이전트용 공간형 커맨드 센터 |
 | **[neuromem](https://github.com/chenjingdev/neuromem)** | 활성화 확산으로 맥락에 맞는 기억을 불러오는 AI 에이전트용 연관 메모리 엔진 |
 | **[Agrune](https://github.com/agrune/agrune)** | AI 에이전트가 웹페이지를 구조적으로 이해하고 안정적으로 조작하도록 돕는 브라우저 자동화 런타임 |
-| **llm-bench** | 내 실사용에 가장 잘 맞는 모델을 다축으로 측정하는 개인용 N-of-1 LLM 비교 벤치마크 |
+| **[llm-bench](https://github.com/chenjingdev/llm-bench)** | 내 실사용에 가장 잘 맞는 모델을 다축으로 측정하는 개인용 N-of-1 LLM 비교 벤치마크 |
 | **[AX Hackathon Plugins](https://github.com/chenjingdev/ax-hackathon-plugins)** | 실제 기업 업무를 AI로 전환하는 OpenAI Codex 플러그인 마켓플레이스 |
 
 ## What I care about
